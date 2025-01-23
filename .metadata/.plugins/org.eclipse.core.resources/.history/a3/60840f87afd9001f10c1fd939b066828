@@ -1,0 +1,7 @@
+package com.dev.dslist.GameRepositories;
+
+import com.dev.dslist.entities.Game;
+
+public class GameRepository extends JpaRepository<Game,Long> {
+
+}
