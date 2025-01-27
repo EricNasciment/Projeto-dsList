@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;dslist&apos;&#x0D;&#x0A;- Original project: &apos;dslist&apos;&#x0D;&#x0A;- Original element: &apos;com.dev.dslist.service.Transaction.java&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dev.dslist.service{Transaction.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1737999938688" subPackages="false" version="1.0"/>
+</session>
