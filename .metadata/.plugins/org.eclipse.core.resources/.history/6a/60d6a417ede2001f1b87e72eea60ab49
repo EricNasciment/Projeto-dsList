@@ -1,0 +1,9 @@
+package com.dev.dslist.projections;
+
+public class GameMinProjection {
+	
+	Long getId();
+	
+	
+
+}

@@ -48,8 +48,10 @@ public class Game {
 		this.shortDescription = shortDescription;
 		this.longDescription = longDescription;
 	}
-
-	public long getId() {
+ 
+	
+	
+	public Long getId() {
 		return id;
 	}
 
@@ -89,11 +91,11 @@ public class Game {
 		this.platforms = platforms;
 	}
 
-	public double getScore() {
+	public Double getScore() {
 		return score;
 	}
 
-	public void setScore(double score) {
+	public void setScore(Double score) {
 		this.score = score;
 	}
 

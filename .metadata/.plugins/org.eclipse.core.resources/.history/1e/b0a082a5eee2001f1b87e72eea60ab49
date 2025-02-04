@@ -1,0 +1,5 @@
+package com.dev.dslist.projections;
+
+public interface GameMinProjection {
+
+}
